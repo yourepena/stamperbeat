@@ -1,0 +1,8 @@
+- key: stamperbeat
+  title: stamperbeat
+  description:
+  fields:
+    - name: stamperbeat
+      type: long
+      required: true
+      description: Document type ("stamperbeat")

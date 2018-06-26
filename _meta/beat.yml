@@ -1,0 +1,15 @@
+################### Stamperbeat Configuration Example #########################
+
+############################# Stamperbeat ######################################
+
+stamperbeat:
+  # Defines how often an event is sent to the output
+  period: 1s
+
+
+ #Defines connection information with the QWCFP
+  url_ws: "http://172.16.253.60:8080"
+  username: "98765432100"
+  password: "33C3109AAA028CCB"
+  group: "SERPRO"
+  rootConfigXML: "/home/youre/workspaceGo/src/github.com/yourepena/qwcfp-client-go/xml-conf/"

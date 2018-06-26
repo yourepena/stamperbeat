@@ -1,0 +1,5 @@
+= Stamperbeat Docs
+
+Welcome to the Stamperbeat documentation.
+
+
